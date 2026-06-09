@@ -1,3 +1,11 @@
+## [1.0.1-beta.1](https://github.com/hariharanhb11/github-release-lab/compare/v1.0.0...v1.0.1-beta.1) (2026-06-09)
+
+
+### Bug Fixes
+
+* correct startup ([2fe0901](https://github.com/hariharanhb11/github-release-lab/commit/2fe0901e92eaadc8bc23b92859cb5c5e84de72d3))
+* correct startup message ([2b69b6d](https://github.com/hariharanhb11/github-release-lab/commit/2b69b6d0c0b674f7c93d3042273a9ab69d0fb630))
+
 # 1.0.0 (2026-06-09)
 
 
